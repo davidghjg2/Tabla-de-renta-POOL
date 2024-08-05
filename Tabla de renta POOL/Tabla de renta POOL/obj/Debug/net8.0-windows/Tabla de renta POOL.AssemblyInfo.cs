@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tabla de renta POOL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f013a4635e5aaf673dfa68388fe0f169da45f150")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c3350c4f145c7af5f0c5835dcfee4b525032f83")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tabla de renta POOL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tabla de renta POOL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

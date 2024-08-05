@@ -1,0 +1,17 @@
+C:\Users\JARVIS\Documents\GitHub\Tabla-de-renta-POOL\Tabla de renta POOL\Tabla de renta POOL\bin\Debug\net8.0-windows\Tabla de renta POOL.exe
+C:\Users\JARVIS\Documents\GitHub\Tabla-de-renta-POOL\Tabla de renta POOL\Tabla de renta POOL\bin\Debug\net8.0-windows\Tabla de renta POOL.deps.json
+C:\Users\JARVIS\Documents\GitHub\Tabla-de-renta-POOL\Tabla de renta POOL\Tabla de renta POOL\bin\Debug\net8.0-windows\Tabla de renta POOL.runtimeconfig.json
+C:\Users\JARVIS\Documents\GitHub\Tabla-de-renta-POOL\Tabla de renta POOL\Tabla de renta POOL\bin\Debug\net8.0-windows\Tabla de renta POOL.dll
+C:\Users\JARVIS\Documents\GitHub\Tabla-de-renta-POOL\Tabla de renta POOL\Tabla de renta POOL\bin\Debug\net8.0-windows\Tabla de renta POOL.pdb
+C:\Users\JARVIS\Documents\GitHub\Tabla-de-renta-POOL\Tabla de renta POOL\Tabla de renta POOL\obj\Debug\net8.0-windows\Tabla_de_renta_POOL.Form1.resources
+C:\Users\JARVIS\Documents\GitHub\Tabla-de-renta-POOL\Tabla de renta POOL\Tabla de renta POOL\obj\Debug\net8.0-windows\Tabla de renta POOL.csproj.GenerateResource.cache
+C:\Users\JARVIS\Documents\GitHub\Tabla-de-renta-POOL\Tabla de renta POOL\Tabla de renta POOL\obj\Debug\net8.0-windows\Tabla de renta POOL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JARVIS\Documents\GitHub\Tabla-de-renta-POOL\Tabla de renta POOL\Tabla de renta POOL\obj\Debug\net8.0-windows\Tabla de renta POOL.AssemblyInfoInputs.cache
+C:\Users\JARVIS\Documents\GitHub\Tabla-de-renta-POOL\Tabla de renta POOL\Tabla de renta POOL\obj\Debug\net8.0-windows\Tabla de renta POOL.AssemblyInfo.cs
+C:\Users\JARVIS\Documents\GitHub\Tabla-de-renta-POOL\Tabla de renta POOL\Tabla de renta POOL\obj\Debug\net8.0-windows\Tabla de renta POOL.csproj.CoreCompileInputs.cache
+C:\Users\JARVIS\Documents\GitHub\Tabla-de-renta-POOL\Tabla de renta POOL\Tabla de renta POOL\obj\Debug\net8.0-windows\Tabla de renta POOL.sourcelink.json
+C:\Users\JARVIS\Documents\GitHub\Tabla-de-renta-POOL\Tabla de renta POOL\Tabla de renta POOL\obj\Debug\net8.0-windows\Tabla de renta POOL.dll
+C:\Users\JARVIS\Documents\GitHub\Tabla-de-renta-POOL\Tabla de renta POOL\Tabla de renta POOL\obj\Debug\net8.0-windows\refint\Tabla de renta POOL.dll
+C:\Users\JARVIS\Documents\GitHub\Tabla-de-renta-POOL\Tabla de renta POOL\Tabla de renta POOL\obj\Debug\net8.0-windows\Tabla de renta POOL.pdb
+C:\Users\JARVIS\Documents\GitHub\Tabla-de-renta-POOL\Tabla de renta POOL\Tabla de renta POOL\obj\Debug\net8.0-windows\Tabla de renta POOL.genruntimeconfig.cache
+C:\Users\JARVIS\Documents\GitHub\Tabla-de-renta-POOL\Tabla de renta POOL\Tabla de renta POOL\obj\Debug\net8.0-windows\ref\Tabla de renta POOL.dll
